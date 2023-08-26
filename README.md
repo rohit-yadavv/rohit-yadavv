@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">Iam Mern Developer and a Open Source Enthussiast</h3>
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="hero">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohit-Yadavv&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit-Yadavv" /> </p>
-<img src="https://learnwik.co/wp-content/uploads/2022/09/Web-Development1-1-1536x1024.jpg" alt="hero">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rohit-Yadavv&theme=dracula" alt="Rohit-Yadavv" /></a> </p>
 
 - 🌱 I’m currently learning **TypeScript**
