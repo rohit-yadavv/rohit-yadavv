@@ -28,12 +28,12 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/768px-CSS3_logo.svg.png?20210705212817" alt="Css" height="60" width="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png?20210507000024" alt="Bootstrap" height="60" width="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207" alt="React" height="60" width="60"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/768px-Sass_Logo_Color.svg.png?20150315202757" alt="Sass" height="50" width="60"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="Tailwindcss" height="50" width="60"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/67/NodeJS.png?20130122160021" alt="NodeJs" height="50" width="120"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png?20170429090805" alt="Express" height="60" width="100"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/768px-MongoDB_Logo.svg.png?20190626143224" alt="Mongodb" height="60" width="100"/>
-<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="Mysql" height="60" width="70"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/768px-Sass_Logo_Color.svg.png?20150315202757" alt="Sass" height="60" width="60"/>
+<img src="https://img.icons8.com/?size=1x&id=4PiNHtUJVbLs&format=png" alt="Tailwindcss" height="60" width="60"/>
+<img src="https://img.icons8.com/?size=1x&id=hsPbhkOH4FMe&format=png" alt="NodeJs" height="60" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png?20170429090805" alt="Express" height="60" width="60"/>
+<img src="https://img.icons8.com/?size=1x&id=74402&format=png" alt="Mongodb" height="60" width="60"/>
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="Mysql" height="60" width="60"/>
 </p>
 
 <h3 align="left">Stars</h3>
