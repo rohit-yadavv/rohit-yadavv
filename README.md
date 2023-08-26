@@ -19,21 +19,21 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457" alt="C" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" alt="CPP" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png?20120221235433" alt="Javascript" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/172px-Python-logo-notext.svg.png?20220821155029" alt="Python" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20221110153201" alt="Typescript" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png?20170517184425" alt="HTML" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/768px-CSS3_logo.svg.png?20210705212817" alt="Css" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png?20210507000024" alt="Bootstrap" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207" alt="React" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/768px-Sass_Logo_Color.svg.png?20150315202757" alt="Sass" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="Tailwindcss" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/67/NodeJS.png?20130122160021" alt="NodeJs" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png?20170429090805" alt="Express" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/768px-MongoDB_Logo.svg.png?20190626143224" alt="Mongodb" height="50"/>
-<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="Mysql" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457" alt="C" height="50" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png" alt="CPP" height="50" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/900px-JavaScript-logo.png?20120221235433" alt="Javascript" height="50" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/172px-Python-logo-notext.svg.png?20220821155029" alt="Python" height="50" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20221110153201" alt="Typescript" height="50" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png?20170517184425" alt="HTML" height="50" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/768px-CSS3_logo.svg.png?20210705212817" alt="Css" height="50" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png?20210507000024" alt="Bootstrap" height="50" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207" alt="React" height="50" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/768px-Sass_Logo_Color.svg.png?20150315202757" alt="Sass" height="50" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="Tailwindcss" height="50" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/67/NodeJS.png?20130122160021" alt="NodeJs" height="50" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png?20170429090805" alt="Express" height="50" width="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/768px-MongoDB_Logo.svg.png?20190626143224" alt="Mongodb" height="50" width="60"/>
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="Mysql" height="50" width="60"/>
 </p>
 
 <h3 align="left">Stars</h3>
