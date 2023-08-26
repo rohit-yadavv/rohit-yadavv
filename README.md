@@ -2,8 +2,7 @@
 <h3 align="center">Iam Mern Developer and a Open Source Enthussiast</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="hero">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohit-Yadavv&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit-Yadavv" /> </p>
-<p align="left" width="200"><img src="https://github-profile-trophy.vercel.app/?username=Rohit-Yadavv&theme=dracula" alt="Rohit-Yadavv" /></p>
-
+``
 - 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about **Mern**
 - 📫 How to reach me **rk4740779@gmail.com**
@@ -13,11 +12,10 @@
 <div> <a href="https://www.linkedin.com/in/rohit-yadav-240448255" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Rohit-Yadavv" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:rk4740779@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rohit-yadav-240448255" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="rohit-yadav-240448255" height="30" width="40" /></a></p>
-
+</div>
 <h3 align="left">Languages and Tools:</h3>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=Rohit-Yadavv&theme=dracula" alt="Rohit-Yadavv" /></p>
+
 <p align="left">
 <img src="https://img.icons8.com/?size=1x&id=40670&format=png" alt="C" height="50" width="50"/>
 <img src="https://img.icons8.com/?size=1x&id=40669&format=png" alt="CPP" height="50" width="50"/>
