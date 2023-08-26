@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">Iam Mern Developer and a Open Source Enthussiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohit-Yadavv&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit-Yadavv" /> </p>
-
+<img src="https://learnwik.co/wp-content/uploads/2022/09/Web-Development1-1-1536x1024.jpg" alt="hero">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rohit-Yadavv&theme=dracula" alt="Rohit-Yadavv" /></a> </p>
 
 - 🌱 I’m currently learning **TypeScript**
@@ -31,7 +31,7 @@
 <img src="https://img.icons8.com/?size=1x&id=QBqFNfPPB2Kx&format=png" alt="Sass" height="50" width="50"/>
 <img src="https://img.icons8.com/?size=1x&id=4PiNHtUJVbLs&format=png" alt="Tailwindcss" height="50" width="50"/>
 <img src="https://img.icons8.com/?size=1x&id=hsPbhkOH4FMe&format=png" alt="NodeJs" height="50" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png?20170429090805" alt="Express" height="50" width="50"/>
+<img src="https://img.icons8.com/?size=1x&id=SDVmtZ6VBGXt&format=png" alt="Express" height="50" width="50"/>
 <img src="https://img.icons8.com/?size=1x&id=74402&format=png" alt="Mongodb" height="50" width="50"/>
 <img src="https://img.icons8.com/?size=1x&id=UFXRpPFebwa2&format=png" alt="Mysql" height="50" width="50"/>
 <img src="https://img.icons8.com/?size=1x&id=20906&format=png" alt="Git" height="50" width="50"/>
