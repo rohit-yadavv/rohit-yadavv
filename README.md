@@ -5,8 +5,8 @@
 
 - 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about **Mern**
-- 📫 How to reach me **rk4740779@gmail.com**
-- 👨‍💻 All of my projects are available at **https://rohityadavv.netlify.app/**
+- 📫 Want to reach me **rk4740779@gmail.com**
+- 👨‍💻 My Portfolio **https://rohityadavv.netlify.app/**
 - 📝 I regularly write articles on **https://questfy.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
