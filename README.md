@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">Iam Mern Developer and a Open Source Enthussiast</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="hero">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohit-Yadavv&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit-Yadavv" /> </p>
 
 - 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about **Mern**
@@ -14,8 +14,6 @@
 <a href="https://github.com/Rohit-Yadavv" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:rk4740779@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=Rohit-Yadavv&theme=transparent" alt="Rohit-Yadavv" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
