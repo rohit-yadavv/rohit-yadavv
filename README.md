@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">Iam Mern Developer and a Open Source Enthussiast</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="hero">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohit-Yadavv&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit-Yadavv" /> </p>
+
 
 - 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about **Mern**
