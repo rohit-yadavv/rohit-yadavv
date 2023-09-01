@@ -7,7 +7,7 @@
 - 💬 Ask me about **Mern**
 - 📫 Want to reach me **rk4740779@gmail.com**
 - 👨‍💻 My Portfolio **https://rohityadavv.netlify.app/**
-- 📝 I regularly write articles on **https://questfy.vercel.app/**
+- 📝 I regularly write articles on **https://questify.cyclic.app/**
 
 <h3 align="left">Connect with me:</h3>
 <div> <a href="https://www.linkedin.com/in/rohit-yadav-240448255" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
