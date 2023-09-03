@@ -34,6 +34,7 @@
 <img src="https://img.icons8.com/?size=1x&id=UFXRpPFebwa2&format=png" alt="Mysql" height="50" width="50"/>
 <img src="https://img.icons8.com/?size=1x&id=20906&format=png" alt="Git" height="50" width="50"/>
 <img src="https://img.icons8.com/?size=1x&id=jD-fJzVguBmw&format=png" alt="Redux" height="50" width="50"/>
+  <img src="https://icons8.com/icon/ttxR7mXaDvqS/styled-components" alt="StyledComponents" height="50" width="50"/>
 </p>
 
 <h3 align="left">Stars</h3>
