@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://icons8.com/icon/r2OarXWQc7B6/next.js" alt="NExtJs" height="50" width="50"/>
+  <img src="https://img.icons8.com/?size=1x&id=MWiBjkuHeMVq&format=png" alt="NextJs" height="50" width="50"/>
   <img src="https://img.icons8.com/?size=1x&id=123603&format=png" alt="React" height="50" width="50"/>
   <img src="https://img.icons8.com/?size=1x&id=hsPbhkOH4FMe&format=png" alt="NodeJs" height="50" width="50"/>
 <img src="https://img.icons8.com/?size=1x&id=40670&format=png" alt="C" height="50" width="50"/>
