@@ -21,11 +21,13 @@
   <img src="https://img.icons8.com/?size=1x&id=MWiBjkuHeMVq&format=png" alt="NextJs" height="50" width="50"/>
   <img src="https://img.icons8.com/?size=1x&id=123603&format=png" alt="React" height="50" width="50"/>
   <img src="https://img.icons8.com/?size=1x&id=hsPbhkOH4FMe&format=png" alt="NodeJs" height="50" width="50"/>
+  
+<img src="https://img.icons8.com/?size=1x&id=PXTY4q2Sq2lG&format=png" alt="Javascript" height="50" width="50"/>
+<img src="https://img.icons8.com/?size=1x&id=uJM6fQYqDaZK&format=png" alt="Typescript" height="50" width="50"/>
 <img src="https://img.icons8.com/?size=1x&id=40670&format=png" alt="C" height="50" width="50"/>
 <img src="https://img.icons8.com/?size=1x&id=40669&format=png" alt="CPP" height="50" width="50"/>
-<img src="https://img.icons8.com/?size=1x&id=PXTY4q2Sq2lG&format=png" alt="Javascript" height="50" width="50"/>
-<img src="https://img.icons8.com/?size=1x&id=l75OEUJkPAk4&format=png" alt="Python" height="50" width="50"/>
-<img src="https://img.icons8.com/?size=1x&id=uJM6fQYqDaZK&format=png" alt="Typescript" height="50" width="50"/>
+  <img src="https://img.icons8.com/?size=1x&id=l75OEUJkPAk4&format=png" alt="Python" height="50" width="50"/>
+  
 <img src="https://img.icons8.com/?size=1x&id=20909&format=png" alt="HTML" height="50" width="50"/>
 <img src="https://img.icons8.com/?size=1x&id=7gdY5qNXaKC0&format=png" alt="Css" height="50" width="50"/>
 <img src="https://img.icons8.com/?size=1x&id=84710&format=png" alt="Bootstrap" height="50" width="50"/>
