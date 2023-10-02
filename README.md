@@ -15,7 +15,9 @@
   <a href="https://leetcode.com/Rohit_32/" target="_blank"><img src="https://img.shields.io/badge/Leetcode-B1B0AE?style=for-the-badge&logo=leetcode&logoColor=E9A240" target="_blank"></a>
 <a href = "mailto:rk4740779@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-[[An image of @rohityadavv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohityadavv)](https://holopin.io/@rohityadavv)
+<div>
+<a href = "https://holopin.io/@rohityadavv)"><img src="https://holopin.me/rohityadavv" target="_blank"></a>
+</div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://img.icons8.com/?size=1x&id=MWiBjkuHeMVq&format=png" alt="NextJs" height="50" width="50"/>
