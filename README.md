@@ -15,9 +15,7 @@
   <a href="https://leetcode.com/Rohit_32/" target="_blank"><img src="https://img.shields.io/badge/Leetcode-B1B0AE?style=for-the-badge&logo=leetcode&logoColor=E9A240" target="_blank"></a>
 <a href = "mailto:rk4740779@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-<div>
-<a href = "https://holopin.io/@rohityadavv)"><img src="https://holopin.me/rohityadavv" target="_blank"></a>
-</div>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://img.icons8.com/?size=1x&id=MWiBjkuHeMVq&format=png" alt="NextJs" height="50" width="50"/>
@@ -43,7 +41,9 @@
 <img src="https://img.icons8.com/?size=1x&id=jD-fJzVguBmw&format=png" alt="Redux" height="50" width="50"/>
 
 </p>
-
+<div>
+<a href = "https://holopin.io/@rohityadavv)"><img src="https://holopin.me/rohityadavv" target="_blank"></a>
+</div>
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Yadavv&layout=compact" alt=Rohit-Yadavv />
 
