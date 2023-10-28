@@ -3,8 +3,8 @@
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="hero">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohit-Yadavv&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit-Yadavv" /> </p>
 
-- 🌱 I’m currently learning **Nextjs**
-- 💬 Ask me about **WEB | OPEN SOURCE**
+- 🌱 I’m currently learning **T3 Stack**
+- 💬 Ask me about **WEB | OPEN SOURCE |MERN | Nextjs**
 - 📫 Want to reach me **rk4740779@gmail.com**
 - 👨‍💻 My Portfolio **https://rohityadavv.netlify.app/**
 - 📝 I regularly write articles on **https://questify.site/**
