@@ -39,9 +39,9 @@
 <img src="https://img.icons8.com/?size=1x&id=UFXRpPFebwa2&format=png" alt="Mysql" height="50" width="50"/>
 <img src="https://img.icons8.com/?size=1x&id=20906&format=png" alt="Git" height="50" width="50"/>
 <img src="https://img.icons8.com/?size=1x&id=jD-fJzVguBmw&format=png" alt="Redux" height="50" width="50"/>
- <img src="https://icons8.com/icon/LdUzF8b5sz2R/docker-a-set-of-coupled-software-as-a-service" alt="docker" height="50" width="50"/>
-  <img src="https://icons8.com/icon/aqb9SdV9P8oC/prisma-orm" alt="prisma" height="50" width="50"/>
-   <img src="https://icons8.com/icon/zdI5E8moxhs-/graphql" alt="graphql" height="50" width="50"/>
+ <img src="https://img.icons8.com/?size=48&id=22813&format=png" alt="docker" height="50" width="50"/>
+  <img src="https://img.icons8.com/?size=50&id=aqb9SdV9P8oC&format=png" alt="prisma" height="50" width="50"/>
+   <img src="https://img.icons8.com/?size=48&id=zdI5E8moxhs-&format=png" alt="graphql" height="50" width="50"/>
 </p>
 <div>
 <a href = "https://holopin.io/@rohityadavv)"><img src="https://holopin.me/rohityadavv" target="_blank"></a>
