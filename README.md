@@ -26,20 +26,22 @@
 <img src="https://img.icons8.com/?size=1x&id=uJM6fQYqDaZK&format=png" alt="Typescript" height="50" width="50"/>
 <img src="https://img.icons8.com/?size=1x&id=40670&format=png" alt="C" height="50" width="50"/>
 <img src="https://img.icons8.com/?size=1x&id=40669&format=png" alt="CPP" height="50" width="50"/>
-  <img src="https://img.icons8.com/?size=1x&id=l75OEUJkPAk4&format=png" alt="Python" height="50" width="50"/>
+<img src="https://img.icons8.com/?size=1x&id=l75OEUJkPAk4&format=png" alt="Python" height="50" width="50"/>
   
 <img src="https://img.icons8.com/?size=1x&id=20909&format=png" alt="HTML" height="50" width="50"/>
 <img src="https://img.icons8.com/?size=1x&id=7gdY5qNXaKC0&format=png" alt="Css" height="50" width="50"/>
 <img src="https://img.icons8.com/?size=1x&id=84710&format=png" alt="Bootstrap" height="50" width="50"/>
 <img src="https://img.icons8.com/?size=1x&id=QBqFNfPPB2Kx&format=png" alt="Sass" height="50" width="50"/>
 <img src="https://img.icons8.com/?size=1x&id=4PiNHtUJVbLs&format=png" alt="Tailwindcss" height="50" width="50"/>
-    <img src="https://img.icons8.com/?size=512&id=ttxR7mXaDvqS&format=png" alt="StyledComponents" height="50" width="50"/>
+<img src="https://img.icons8.com/?size=512&id=ttxR7mXaDvqS&format=png" alt="StyledComponents" height="50" width="50"/>
 <img src="https://img.icons8.com/?size=1x&id=SDVmtZ6VBGXt&format=png" alt="Express" height="50" width="50"/>
 <img src="https://img.icons8.com/?size=1x&id=74402&format=png" alt="Mongodb" height="50" width="50"/>
 <img src="https://img.icons8.com/?size=1x&id=UFXRpPFebwa2&format=png" alt="Mysql" height="50" width="50"/>
 <img src="https://img.icons8.com/?size=1x&id=20906&format=png" alt="Git" height="50" width="50"/>
 <img src="https://img.icons8.com/?size=1x&id=jD-fJzVguBmw&format=png" alt="Redux" height="50" width="50"/>
-
+ <img src="https://icons8.com/icon/LdUzF8b5sz2R/docker-a-set-of-coupled-software-as-a-service" alt="docker" height="50" width="50"/>
+  <img src="https://icons8.com/icon/aqb9SdV9P8oC/prisma-orm" alt="prisma" height="50" width="50"/>
+   <img src="https://icons8.com/icon/zdI5E8moxhs-/graphql" alt="graphql" height="50" width="50"/>
 </p>
 <div>
 <a href = "https://holopin.io/@rohityadavv)"><img src="https://holopin.me/rohityadavv" target="_blank"></a>
