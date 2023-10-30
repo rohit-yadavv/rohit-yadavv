@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohit-Yadavv&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit-Yadavv" /> </p>
 
 - 🌱 I’m currently learning **T3 Stack**
-- 💬 Ask me about **WEB | OPEN SOURCE |MERN | Nextjs**
+- 💬 Ask me about **WEB (MERN | Nextjs) | OPEN SOURCE**
 - 📫 Want to reach me **rk4740779@gmail.com**
 - 👨‍💻 My Portfolio **https://rohityadavv.netlify.app/**
 - 📝 I regularly write articles on **https://questify.site/**
