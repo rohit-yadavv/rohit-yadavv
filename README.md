@@ -43,7 +43,7 @@
    <img src="https://img.icons8.com/?size=48&id=zdI5E8moxhs-&format=png" alt="graphql" height="50" width="50"/>
 </p>
 <div>
-<a href = "https://holopin.io/@rohityadavv)"><img src="https://holopin.me/rohityadavv" target="_blank"></a>
+<a href = "https://holopin.io/@rohityadavv"><img src="https://holopin.me/rohityadavv" target="_blank"></a>
 </div>
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Yadavv&layout=compact" alt=Rohit-Yadavv />
