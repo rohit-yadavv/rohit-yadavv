@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <div> 
   <a href="https://leetcode.com/rohityadavv/" target="_blank"><img src="https://img.shields.io/badge/Leetcode-f2f2f2?style=for-the-badge&logo=leetcode&logoColor-10000" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rohit-yadav-240448255/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rohityadavv/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
