@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
-</p>
-
+</p> 
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center"> Software Developer </h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="hero">
@@ -30,3 +29,6 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Yadavv" alt="Rohit-Yadavv" /></p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
