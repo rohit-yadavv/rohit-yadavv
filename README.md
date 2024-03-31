@@ -24,9 +24,10 @@
 </div>
 
 ## GitHub Stats
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Yadavv&hide=Jupyter%20Notebook&theme=radical&show_icons=true&hide_border=true&layout=compact" alt=Rohit-Yadavv />
-<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Yadavv&hide=Jupyter%20Notebook&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Rohit-Yadavv" />
-
+<p align="center">
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Yadavv&hide=Jupyter%20Notebook&theme=radical&show_icons=true&hide_border=true&layout=compact" alt=Rohit-Yadavv />
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Yadavv&hide=Jupyter%20Notebook&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Rohit-Yadavv" />
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
