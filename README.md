@@ -24,9 +24,11 @@
 </div>
 
 ## GitHub Stats
-<p align="center">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Yadavv&hide=Jupyter%20Notebook&theme=radical&show_icons=true&hide_border=true&layout=compact" alt=Rohit-Yadavv />
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Yadavv&hide=Jupyter%20Notebook&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Rohit-Yadavv" />
+<p align="center"> 
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Yadavv&theme=transparent&hide_border=true&layout=compact)
+  ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Yadavv&layout=compact&theme=transparent)
+  
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
