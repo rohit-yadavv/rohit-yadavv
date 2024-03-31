@@ -1,12 +1,10 @@
-<p align="center">
+<p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
-</p> 
-<h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center"> Software Developer </h3>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="hero">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohit-Yadavv&label=Profile%20views&color=0e75b6&style=flat" alt="Rohit-Yadavv" /> </p>
+  <img src="https://github.com/rohit-yadavv/Rohit-Yadavv/blob/main/banner.png"/>
+</p>
 
-- 🌱 I’m currently learning **T3 Stack**
+<h1 align="center">Hi 👋, I'm Rohit</h1>
+
 - 💬 Ask me about **WEB (MERN | Nextjs) | OPEN SOURCE**
 - 📫 Want to reach me **rk4740779@gmail.com**
 - 👨‍💻 My Portfolio **https://rohityadavv.netlify.app/** 
