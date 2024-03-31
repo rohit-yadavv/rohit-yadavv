@@ -27,7 +27,7 @@
 <p align="center"> 
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Yadavv&theme=transparent&hide_border=true&layout=compact)
-  ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Yadavv&layout=compact&theme=transparent)
+  ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Yadavv&hide_border=true&layout=compact&theme=transparent)
   
 </p>
 <p align="center">
