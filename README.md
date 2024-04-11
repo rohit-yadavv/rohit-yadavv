@@ -17,7 +17,7 @@
 <br/>
 
 ## Languages and Tools
-![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,fastapi,docker,postman,mongodb,c,cpp,py,js,typescript,html,css,tailwind,bootstrap,sass,styledcomponents,express,git,linux,firebase,figma,redux,prisma,graphql,flask,postgresql,materialui,vim)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,typescript,nextjs,react,nodejs,mongodb,html,css,tailwind,bootstrap,sass,styledcomponents,postman,express,git,linux,firebase,figma,redux,prisma,graphql,flask,postgresql,materialui,vim,fastapi,docker)
 
 ## Holopin Board
 <a href = "https://holopin.io/@rohityadavv"><img src="https://holopin.me/rohityadavv" target="_blank"></a>
