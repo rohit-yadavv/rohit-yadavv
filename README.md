@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **WEB (MERN | Nextjs) | OPEN SOURCE**
 - 📫 Want to reach me **rk4740779@gmail.com**
-- 👨‍💻 My Portfolio **[https://rohityadavv.netlify.app/](https://rohityadav.vercel.app/)** 
+- 👨‍💻 My Portfolio **https://rohityadav.vercel.app/** 
 - 📝 I regularly write articles on **https://questify.site/**
 
 ## Connect with me  
