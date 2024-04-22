@@ -3,7 +3,8 @@
   <img src="https://github.com/rohit-yadavv/Rohit-Yadavv/blob/main/banner.png"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Rohit</h1>
+<!--<h1 align="center">Hi 👋, I'm Rohit</h1>-->
+### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Nishit+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Rohit Welcome to my Profile! animated typed out">
 
 - 💬 Ask me about **WEB (MERN | Nextjs) | OPEN SOURCE**
 - 📫 Want to reach me **rk4740779@gmail.com**
