@@ -27,8 +27,7 @@
 ## Holopin Board
 <a href = "https://holopin.io/@rohityadavv"><img src="https://holopin.me/rohityadavv" target="_blank"></a>
 </div>
-
-## GitHub Stats
+ 
 <p align="center"> 
   
   <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Yadavv&theme=transparent&hide_border=true&layout=compact)  -->
