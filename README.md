@@ -7,6 +7,9 @@
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Rohit+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Rohit Welcome to my Profile! animated typed out">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-yadavv&label=Profile%20views&color=0e75b6&style=flat" alt="im-rihan" /> </p>
+
+
 - 💬 Ask me about **WEB (MERN | Nextjs) | OPEN SOURCE**
 - 📫 Want to reach me **rk4740779@gmail.com**
 - 👨‍💻 My Portfolio **https://rohityadav.vercel.app/** 
