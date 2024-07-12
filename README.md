@@ -7,7 +7,12 @@
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Rohit+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Rohit Welcome to my Profile! animated typed out">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-yadavv&label=Profile%20views&color=0e75b6&style=flat" alt="im-rihan" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-yadavv&label=Profile%20views&color=0e75b6&style=flat" alt="im-rihan" /> </p> -->
+<p align="left"> 
+  Visitors count 
+  <br> <img src="https://profile-counter.glitch.me/rohit-yadavv/count.svg" />
+</p>
+
 
 
 - 💬 Ask me about **WEB (MERN | Nextjs) | OPEN SOURCE**
@@ -24,12 +29,16 @@
 ## Languages and Tools
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,typescript,nextjs,react,nodejs,mongodb,html,css,tailwind,bootstrap,sass,styledcomponents,postman,express,git,linux,firebase,figma,redux,prisma,graphql,flask,postgresql,materialui,vim,fastapi,docker)
 
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rohit-yadavv&theme=vue&no-frame=false&no-bg=false&margin-w=4)
+
+
+
 ## Holopin Board
 <a href = "https://holopin.io/@rohityadavv"><img src="https://holopin.me/rohityadavv" target="_blank"></a>
 </div>
  
 <p align="center"> 
-  
   <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Yadavv&theme=transparent&hide_border=true&layout=compact)  -->
   <!-- ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Yadavv&hide_border=true&layout=compact&theme=transparent) -->
   
