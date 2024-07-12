@@ -22,7 +22,7 @@
 
 ## Connect with me  
   <a href="mailto:rohitydv056@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://leetcode.com/rohityadavv/" target="_blank"><img align="left" src="https://img.shields.io/badge/Leetcode-f2f2f2?style=for-the-badge&logo=leetcode&logoColor-10000" target="_blank"></a>
+  <!-- <a href="https://leetcode.com/rohityadavv/" target="_blank"><img align="left" src="https://img.shields.io/badge/Leetcode-f2f2f2?style=for-the-badge&logo=leetcode&logoColor-10000" target="_blank"></a> -->
   <a href="https://www.linkedin.com/in/rohityadavv/" target="_blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <br/>
 
