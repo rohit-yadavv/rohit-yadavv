@@ -6,8 +6,8 @@
   <img src="https://visitcount.itsvg.in/api?id=rohit-yadavv&icon=0&color=0" />
 </p>
 
-- 💬 Ask me about **WEB (MERN | Next.js) | OPEN SOURCE**
-- 📫 Want to reach me: **rk4740779@gmail.com**
+- 💬 Ask me about **Web Development**
+- 📫 Want to reach me: **rohitydv056@gmail.com**
 - 👨‍💻 My Portfolio: **[rohityadav.vercel.app](https://rohityadav.vercel.app/)**
 - 📝 I regularly write articles on: **[questify.site](https://questify.site/)**
 
