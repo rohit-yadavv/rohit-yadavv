@@ -8,8 +8,8 @@
 
 - 💬 Ask me about **Web Development**
 - 📫 Want to reach me: **rohitydv056@gmail.com**
-- 👨‍💻 My Portfolio: **[rohityadav.vercel.app](https://rohityadav.vercel.app/)**
-- 📝 I regularly write articles on: **[questify.site](https://questify.vercel.app/)**
+- 👨‍💻 My Portfolio: **[rohityadav.com](https://rohityadav.vercel.app/)**
+- 📝 I regularly write articles on: **[questify.vercel.app](https://questify.vercel.app/)**
 
 ### 👋 Connect with Me
 <a href="mailto:rohitydv056@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
