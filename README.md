@@ -29,9 +29,6 @@
   
 </a>
 
-### Holopin Board
-<a href="https://holopin.io/@rohityadavv"><img src="https://holopin.me/rohityadavv" target="_blank"></a>
-
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
