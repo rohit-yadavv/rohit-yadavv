@@ -17,7 +17,7 @@
 <br/>
 
 ### ⚙️ Languages and Tools
-![My Skills](https://skillicons.dev/icons?i=cpp,py,js,typescript,nextjs,react,nodejs,mongodb,tailwind,express,git,firebase,figma,redux,prisma,graphql,flask,postgresql,docker)
+![My Skills](https://skillicons.dev/icons?i=cpp,py,js,typescript,nextjs,react,nodejs,mongodb,git,firebase,figma,graphql,postgresql,docker)
 
 ### ⚙️ GitHub Analytics
 <a href="https://github.com/rohit-yadavv">
