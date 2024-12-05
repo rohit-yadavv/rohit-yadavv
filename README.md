@@ -23,10 +23,9 @@
 <a href="https://github.com/rohit-yadavv">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit-yadavv&theme=github_dark" alt="Rohit Yadav github stats" />
   <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohit-yadavv&theme=github_dark" alt="Rohit Yadav github stats" />
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohit-yadavv&theme=github_dark" alt="Rohit Yadav github stats" />
+ 
     <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=github_dark" alt="Rohit Yadav github stats" />
-  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohit-yadavv&theme=github_dark&utcOffset=8" />
-  
+    
 </a>
 
 <p align="center"> 
