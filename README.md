@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Web Development**
 - 📫 Want to reach me: **rohitydv056@gmail.com**
-- 👨‍💻 My Portfolio: **[rohityadav.com](https://rohityadav.vercel.app/)**
+- 👨‍💻 My Portfolio: **[rohityadav.vercel.app](https://rohityadav.vercel.app/)**
 - 📝 I regularly write articles on: **[questfy.vercel.app](https://questfy.vercel.app/)**
 
 ### 👋 Connect with Me
