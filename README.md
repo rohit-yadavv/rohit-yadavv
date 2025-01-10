@@ -1,10 +1,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<img src="https://github.com/rohit-yadavv/assets/banner.png" />
+<img src="./assets/banner-new.png" />
 <h1 align="center">Hi 👋, I'm Rohit Yadav</h1>
 
 # 💫 About Me:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-ffdd00?style=for-the-badge&logo=web&logoColor=white)](https://sps-portfolio-website.vercel.app/)
+
 ![](https://komarev.com/ghpvc/?username=rohit-yadavv&abbreviated=true) 
 
 - 🔭 I'm a <b> Full-Stack web developer</b> & <b>React Native Mobile Developer </b>
