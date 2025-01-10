@@ -11,15 +11,11 @@
 - 👯 I'm looking to collaborate on Full Stack projects
 - 💬 Ask me about **MERN stack, T3 Stack, React Native**
 
-<br/>
-
 # 👋 Connect with Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitydv056@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/itz_rohit_yadav/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohityadavv/)
-
-<br/>
 
 # ⚙️ Languages and Tools
 
@@ -32,11 +28,8 @@
 <a href="https://github.com/rohit-yadavv">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit-yadavv&theme=github_dark" alt="Rohit Yadav github stats" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-yadavv&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Rohit Yadav github stats" />
-  
-  <img height="160em" src="https://streak-stats.demolab.com?user=rohit-yadavv&theme=github-dark-blue&hide_border=true" />
-  
 </a>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rohit-yadavv&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></a>
 ## 🪶 GSSOC(24) Badges
 
 <div style='display:flex; align-items:center; gap: 5px;' align='center'>
