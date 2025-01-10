@@ -4,6 +4,8 @@
 
 # 💫 About Me:
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-ffdd00?style=for-the-badge&logo=web&logoColor=white)](https://sps-portfolio-website.vercel.app/)
+
 - 🔭 I'm a <b> Full-Stack web developer</b> & <b>React Native Mobile Developer </b>
 - 🌱 Pursuing <b>B.Tech 3rd Year</b>
 - 👯 I'm looking to collaborate on Full Stack projects
@@ -12,10 +14,6 @@
 <br/>
 
 # 👋 Connect with Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-ffdd00?style=for-the-badge&logo=web&logoColor=white)](https://sps-portfolio-website.vercel.app/)
-
----
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitydv056@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/itz_rohit_yadav/)
@@ -34,13 +32,15 @@
 <a href="https://github.com/rohit-yadavv">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit-yadavv&theme=github_dark" alt="Rohit Yadav github stats" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-yadavv&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Rohit Yadav github stats" />
+  
+  <img height="160em" src="https://streak-stats.demolab.com?user=rohit-yadavv&theme=github-dark-blue&hide_border=true" />
+  
 </a>
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rohit-yadavv&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
 ## 🪶 GSSOC(24) Badges
 
-<div style='display:flex; align-items:center; gap: 5px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024&username=Hemu21">
+<div style='display:flex; align-items:center; gap: 5px;' align='center'>
+<div>
 <img src="./assets/postman.png" width="85px" height="85px" />
   <img src="./assets/1.png" width="85px" height="85px" />
   <img src="./assets/2.png" width="85px" height="85px" />
@@ -49,12 +49,9 @@
   <img src="./assets/5.png" width="85px" height="85px" />
   <img src="./assets/6.png" width="85px" height="85px" />
   <img src="./assets/7.png" width="85px" height="85px" />
-  <img src="./assets/8.png" width="85px" height="85px" /></a>
+  <img src="./assets/8.png" width="85px" height="85px" />
 </div>
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=rohit-yadavv&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
