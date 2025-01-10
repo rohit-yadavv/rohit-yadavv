@@ -5,7 +5,6 @@
 # 💫 About Me:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-ffdd00?style=for-the-badge&logo=web&logoColor=white)](https://sps-portfolio-website.vercel.app/)
-
 ![](https://komarev.com/ghpvc/?username=rohit-yadavv&abbreviated=true) 
 
 - 🔭 I'm a <b> Full-Stack web developer</b> & <b>React Native Mobile Developer </b>
@@ -31,8 +30,10 @@
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit-yadavv&theme=github_dark" alt="Rohit Yadav github stats" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-yadavv&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Rohit Yadav github stats" />
 </a>
+
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rohit-yadavv&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></a>
  -->
+ 
 ## 🪶 GSSOC(24) Badges
 
 <div style='display:flex; align-items:center; gap: 5px;' align='center'>
