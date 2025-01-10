@@ -4,7 +4,7 @@
 <h3 align="start"></h3>
 
 <p align="center"> 
-  <img src="https://github.com/rohit-yadavv/Rohit-Yadavv/blob/main/banner.png"/>
+  <img src="https://github.com/rohit-yadavv/rohit-yadavv/assests/banner.png"/>
 </p>
 
 <p align="left"> 
