@@ -28,7 +28,7 @@
 
 <a href="https://github.com/rohit-yadavv">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit-yadavv&theme=github_dark" alt="Rohit Yadav github stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-yadavv&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Rohit Yadav github stats" />
+<!--   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-yadavv&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Rohit Yadav github stats" /> -->
 </a>
 
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rohit-yadavv&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></a>
