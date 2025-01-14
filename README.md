@@ -5,12 +5,13 @@
 # 💫 About Me:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-ffdd00?style=for-the-badge&logo=web&logoColor=white)](https://rohityadav.vercel.app/)
-![](https://komarev.com/ghpvc/?username=rohit-yadavv&abbreviated=true) 
 
+- ![](https://komarev.com/ghpvc/?username=rohit-yadavv&abbreviated=true) 
 - 🔭 I'm a <b> Full-Stack web developer</b> & <b>React Native Mobile Developer </b>
 - 🌱 Pursuing <b>B.Tech 3rd Year</b>
 - 👯 I'm looking to collaborate on Full Stack projects
 - 💬 Ask me about **MERN stack, T3 Stack, React Native**
+
 
 # 👋 Connect with Me
 
