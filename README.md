@@ -61,8 +61,8 @@
   <img src="./assets/8.png" width="85px" height="85px" />
 </div>
 </div>
--->
 
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+-->
