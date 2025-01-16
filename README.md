@@ -21,20 +21,21 @@
 
 # ⚙️ Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=cpp,py,js,typescript,nextjs,react,nodejs,mongodb,git,firebase,figma,graphql,postgresql,docker)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,typescript,nextjs,react,nodejs,mongodb,mysql,postgresql,supabase,git,firebase,figma,graphql,postgresql,docker,flask,redux,tailwindcss,prisma,sklearn,tailwind)
 
 <br/>
-
+<!--
 # 💹 GitHub Analytics
 
 <a href="https://github.com/rohit-yadavv">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit-yadavv&theme=github_dark" alt="Rohit Yadav github stats" />
-<!--   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-yadavv&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Rohit Yadav github stats" /> -->
+<!--   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-yadavv&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Rohit Yadav github stats" /> 
 </a>
-
+-->
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rohit-yadavv&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></a>
  -->
 
+<!--
  ## 📊 Holopin Board
 
 <div>
@@ -42,8 +43,9 @@
 [![](https://holopin.me/rohityadavv)](https://holopin.io/@rohityadavv)
 
 </div>
+-->
 
-
+<!--
 ## 🪶 GSSOC(24) Badges
 
 <div style='display:flex; align-items:center; gap: 5px;' align='center'>
@@ -59,7 +61,7 @@
   <img src="./assets/8.png" width="85px" height="85px" />
 </div>
 </div>
-
+-->
 
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
