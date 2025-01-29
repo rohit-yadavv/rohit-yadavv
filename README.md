@@ -21,7 +21,7 @@
 
 # ⚙️ Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,typescript,nextjs,react,nodejs,mongodb,mysql,postgresql,supabase,git,firebase,figma,graphql,postgresql,ansible,terraform,docker,kubernetes,flask,redux,tailwindcss,prisma,sklearn,tailwind,Matplotlib)
+![My Skills](![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,typescript,html,css,react,nextjs,bootstrap,materialui,tailwindcss,styledcomponents,nodejs,express,fastapi,flask,mongodb,mysql,postgresql,supabase,firebase,prisma,ansible,terraform,docker,kubernetes,aws,netlify,vercel,git,github,figma,babel,graphql,redux,vim,linux,sklearn))
 
 <br/>
 <!--
