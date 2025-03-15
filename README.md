@@ -16,7 +16,8 @@
 # 👋 Connect with Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitydv056@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohityadavv/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohityadavv/) 
+[![GitLab](https://img.shields.io/badge/gitlab-ffdd00?style=for-the-badge&logo=gitlab)](https://gitlab.com/rohityadavv)
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/itz_rohit_yadav/) !--->
 
 # ⚙️ Languages and Tools
