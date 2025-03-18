@@ -9,8 +9,9 @@
 - ![](https://komarev.com/ghpvc/?username=rohit-yadavv&abbreviated=true) 
 - 🔭 I'm a <b> Full-Stack web developer</b> & <b>React Native Mobile Developer </b>
 - 🌱 Pursuing <b>B.Tech 3rd Year</b>
-- 👯 I'm looking to collaborate on Full Stack projects
+- 👯 I'm looking to collaborate on Full Stack and GenAi projects
 - 💬 Ask me about **MERN stack, T3 Stack, React Native**
+- 💼 IT Intern **@Dislovalist Inc.** | Ex-SWE Intern **@Tayyari**
 
 
 # 👋 Connect with Me
