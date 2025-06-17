@@ -15,8 +15,7 @@
 - 🎓 Final Year B.Tech Student  
 - 🔭 Full-Stack Web Developer & React Native Mobile Developer  
 - 🤖 Interested in GenAI, RAG, and AI-powered applications  
-- 🤝 Open to collaborations on Full-Stack & GenAI projects  
-- 💬 Ask me about MERN Stack, T3 Stack, React Native, GenAI  
+- 🤝 Open to collaborations on Full-Stack & GenAI projects   
 - 💼 IT Intern @Dislovalist Inc. | Ex-SWE Intern @Tayyari  
 - 👀 ![](https://komarev.com/ghpvc/?username=rohit-yadavv&abbreviated=true)
 
