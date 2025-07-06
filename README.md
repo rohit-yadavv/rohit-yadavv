@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Yadav</h1>
 
 <p align="center">
-  <a href="https://rohityadav.vercel.app/">
+  <a href="https://rohityadav.site/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-ffdd00?style=for-the-badge&logo=web&logoColor=white" />
   </a>
 </p>
