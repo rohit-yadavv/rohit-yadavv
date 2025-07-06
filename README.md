@@ -1,6 +1,4 @@
 
----
-
 <h1 align="center">Hi 👋, I'm Rohit Yadav</h1>
 
 <p align="center">
