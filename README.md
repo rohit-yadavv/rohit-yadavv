@@ -1,5 +1,6 @@
-<!--   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" /> --->
-<img src="./assets/banner-new.png" />
+
+---
+
 <h1 align="center">Hi 👋, I'm Rohit Yadav</h1>
 
 <p align="center">
@@ -12,11 +13,10 @@
 
 ## 💫 About Me
 
-- 🎓 Final Year B.Tech Student  
-- 🔭 Full-Stack Web Developer & React Native Mobile Developer  
-- 🤖 Interested in GenAI, RAG, and AI-powered applications  
+- 🔭 Full-Stack Web Developer | GenAI Developer | React Native Mobile Developer
+- 💼 1+ Year Internship Experience — IT Intern @Dislovalist Inc. | Ex-SWE Intern @Tayyari 
 - 🤝 Open to collaborations on Full-Stack & GenAI projects   
-- 💼 IT Intern @Dislovalist Inc. | Ex-SWE Intern @Tayyari  
+- 🎓 Final Year B.Tech Student  
 - 👀 ![](https://komarev.com/ghpvc/?username=rohit-yadavv&abbreviated=true)
 
 ---
@@ -30,9 +30,6 @@
 
 ---
 
-## ⚙️ Languages and Tools
-
-![Skills](https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css,react,nextjs,redux,nodejs,express,fastapi,flask,mongodb,mysql,postgresql,supabase,firebase,prisma,tailwindcss,bootstrap,materialui,styledcomponents,aws,docker,kubernetes,vercel,netlify,terraform,ansible,graphql,git,github,vscode,figma,babel,vim,linux,sklearn)
 
 <!-- 
 ## 📊 GitHub Stats
