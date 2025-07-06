@@ -26,7 +26,6 @@
 [![GitLab](https://img.shields.io/badge/GitLab-Follow-ffdd00?style=for-the-badge&logo=gitlab)](https://gitlab.com/rohityadavv)
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/itz_rohit_yadav/) -->
 
----
 
 
 <!-- 
@@ -67,7 +66,7 @@
 </div>
 -->
 
-<p align="center">
+<!-- <p align="center">
 <!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> -->
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-</p>
+</p> -->
