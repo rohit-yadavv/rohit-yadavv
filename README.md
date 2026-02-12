@@ -22,7 +22,7 @@
 ## 🌐 Connect with Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitydv056@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohityadavv/)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohityadavv/) -->
 [![GitLab](https://img.shields.io/badge/GitLab-Follow-ffdd00?style=for-the-badge&logo=gitlab)](https://gitlab.com/rohityadavv)
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/itz_rohit_yadav/) -->
 
