@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Yadav</h1>
 
 <p align="center">
-  <a href="https://rohityadav.site/">
+  <a href="https://rohityadav.site/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-ffdd00?style=for-the-badge&logo=web&logoColor=white" />
   </a>
 </p>
@@ -12,7 +12,7 @@
 ## 💫 About Me
 
 - 🔭 Full-Stack Web Developer | GenAI Developer | React Native Mobile Developer
-- 💼 1+ Year Internship Experience — IT Intern @Dislovalist Inc. | Ex-SWE Intern @Tayyari 
+- 💼 ~2 Year Internship Experience — Ex-Intern @YardStick, @Dislovalist Inc,  @Tayyari, @WellFounded It Sol.
 - 🤝 Open to collaborations on Full-Stack & GenAI projects   
 - 🎓 Final Year B.Tech Student  
 - 👀 ![](https://komarev.com/ghpvc/?username=rohit-yadavv&abbreviated=true)
@@ -23,7 +23,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitydv056@gmail.com)
 [![GitLab](https://img.shields.io/badge/GitLab-Follow-ffdd00?style=for-the-badge&logo=gitlab)](https://gitlab.com/rohityadavv)
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohityadavv/) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohityadavv/)
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/itz_rohit_yadav/) -->
 
 
